@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "additionalDirectories": [
+      "/Users/andre/novo_git/chatflex-mobile-ios/Chatflex-mobile/Features/Chat",
+      "/Users/andre/novo_git/chatflex-mobile-android/app/src/main/kotlin/br/com/chatflex/app/features/chat"
+    ],
+    "allow": [
+      "Bash(./gradlew :app:assembleDebug :app:testDebugUnitTest)"
+    ]
+  }
+}
